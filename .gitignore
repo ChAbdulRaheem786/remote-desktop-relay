@@ -1,0 +1,17 @@
+.env
+
+*.pfx
+*.p12
+*.key
+*.pem
+
+__pycache__/
+*.pyc
+
+build/
+dist/
+
+.vscode/
+.idea/
+
+HomeRemote.exe
