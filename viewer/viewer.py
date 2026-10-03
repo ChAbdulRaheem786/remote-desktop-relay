@@ -13,7 +13,7 @@ from PIL import Image, ImageTk
 RELAY_HTTP = "https://remote-desktop-relay-5gte.onrender.com"
 RELAY_WS = "wss://remote-desktop-relay-5gte.onrender.com"
 
-TOKEN = "webcrwaler@302"
+TOKEN = "YOUR_NEW_RANDOM_TOKEN"
 
 
 class RemoteViewer:

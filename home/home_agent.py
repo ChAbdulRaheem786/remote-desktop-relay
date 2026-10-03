@@ -13,7 +13,7 @@ import websockets
 
 
 RELAY = "wss://remote-desktop-relay-5gte.onrender.com"
-TOKEN = "webcrwaler@302"
+TOKEN = "YOUR_NEW_RANDOM_TOKEN"
 
 running = True
 device_id = None
